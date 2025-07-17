@@ -1,31 +1,34 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+<h1 align="center">Hey, I'm Osama Ahmed 👋</h1>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+🎓 I'm currently learning **programming**, especially **C++** using Visual Studio 2022.  
+💡 I'm passionate about technology and enjoy exploring how things work.  
+🎯 My goal is to become a professional software developer in the future.  
+🚀 I'm still a beginner, but I'm learning step by step and improving every day.
 
-```txt
-TypeScript   14 hrs 58 mins  █████████████████████████   99.69 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-```
+---
 
-<!--END_SECTION:waka-->
+📚 **Currently Learning:**
+- C++ programming
+- Problem-solving & logical thinking
+- English & technical communication
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+🛠️ **Tools I'm Using:**
+- Visual Studio 2022
+- Git & GitHub
+- Windows 10 Pro
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+---
 
+📫 **Contact Me:**  
+📧 [oa825814@gmail.com](mailto:oa825814@gmail.com)
 
-📈 my github stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
+📈 **My GitHub Stats:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsamaTech10&show_icons=true&theme=tokyonight" alt="OsamaTech10" />
+</p>
 
 
