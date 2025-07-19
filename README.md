@@ -1,78 +1,32 @@
-<div align="center" width="60%">
+<div align="center">
 
+<h1>Hi, I'm Osama Ahmed 👋</h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> <br>
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>
 
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
-
-<details>
-  <summary>  Osama Ahmed 👋 </summary>
-  <!-- You can embed your Spotify later here if you want -->
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=OsamaTech10&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOsamaTech10&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osama-ahmed-113102361)
-[![Gmail](https://img.shields.io/badge/Gmail-oa825814@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:oa825814@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01110958865-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201110958865)
-
-</div>
+<p>Welcome to my GitHub! I'm Osama Ahmed — a curious and ambitious mind, passionate about technology, problem-solving, and creating with code. Currently exploring the power of C++ and building a solid foundation in software development. Always eager to learn, grow, and take on new challenges.
+, currently focused on learning <strong>C++</strong> and developing my skills in programming and software development. I'm always open to new challenges and collaborations!</p>
 
 ---
 
-## 👨‍💻 About Me
+###  Tools & Technologies I'm Learning and Using:
 
-```cpp
-// Programming Language: C++ 💙💻
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#include <iostream>
-using namespace std;
+---
 
-class OsamaAhmed {
-  public:
-    string name = "Osama Ahmed";
-    string nationality = "Egyptian 🇪🇬";
-    string currentFocus = "C++ Development using Visual Studio 2022";
-    string goal = "To become a professional software engineer 👨‍💻";
-    string learningStatus = "Beginner - learning step by step, never stopping!";
-    
-    void code() {
-        cout << "Writing code, fixing bugs, and learning every day!" << endl;
-    }
+### 📫 How to Reach Me:
 
-    void keepGoing() {
-        cout << "Never give up 💪. Keep pushing one line of code at a time!" << endl;
-    }
-};
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osama-ahmed-113102361)
+[![Gmail](https://img.shields.io/badge/Gmail-oa825814@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:oa825814@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01110958865-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201110958865)
+---
 
-int main() {
-    OsamaAhmed me;
-    me.code();
-    me.keepGoing();
-    return 0;
-}
-🚀 Tools & Tech I Use
-💻 Languages:
-(Currently learning)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaTech10&show_icons=true&theme=tokyonight&count_private=true)
 
-🧰 IDE:
-Visual Studio 2022
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OsamaTech10.OsamaTech10)
 
-📚 Learning Platforms:
-GitHub, Edraak, YouTube, iSchool
-
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OsamaTech10&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaTech10&theme=tokyonight" width="48%"/> </div> <details> <summary>📊 More Stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details>
-🔁 Code Cycle
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Confused Mode"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Success Mode"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Surprised I Did It!"/> </div>
-💬 Let's Connect
-If you have an idea, a question, or just want to say hi, feel free to reach out:
-
-📧 Email: oa825814@gmail.com
-
-💼 LinkedIn: Osama Ahmed
-
-📱 WhatsApp: +20 1110958865
-
-<div align="center"> <b>Keep learning. Keep growing. One line of code at a time. 💻</b> </div> ```
+</div>
