@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/aemmadi/aemmadi/blob/master/assets/Right_Side.gif?raw=true" width="30%">
 
 <br><br>
-
+<img align="right" src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Right_Side.gif" width=30%>
 - 💡 I'm a curious and ambitious mind, passionate about technology and programming.
 - 🚀 Currently diving deep into `C++` and building a strong foundation in software development.
 - 💻 I use `Visual Studio 2022` for coding and exploring real-world projects.
