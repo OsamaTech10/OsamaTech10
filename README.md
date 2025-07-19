@@ -31,10 +31,15 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio 2022" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+</p>
+
   <a href="https://github.com/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
 </p>
+
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
+  
 
 ---
 
