@@ -30,14 +30,8 @@
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-</p>
-
-  <a href="https://github.com/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
-</p>
----
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60"/></p>
+  <a href="https://github.com/"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="60" height="60"/></a></p>
 
 ## 📊 GitHub Stats
 
