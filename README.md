@@ -6,10 +6,17 @@
 
 ## <img src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Connect-with-me.gif" width="20%"> Connect with me
 <p align="center">
-<a href="mailto:oa825814@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/201110958865"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-<a href="https://www.linkedin.com/in/osama-ahmed-113102361"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:oa825814@gmail.com">
+  <img src="https://img.icons8.com/fluent/60/000000/gmail.png"/>
+</a>
+<a href="https://wa.me/201110958865">
+  <img src="https://img.icons8.com/fluent/60/000000/whatsapp.png"/>
+</a>
+<a href="https://www.linkedin.com/in/osama-ahmed-113102361/">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png"/>
+</a>
 </p>
+
 <h3 style="color: #777; margin-bottom: 20px;">Exploring the world of C++ | Visual Studio 2022 User</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OsamaTech10&label=Profile%20views&color=0e75b6&style=flat" alt="OsamaTech10" /> </p>
