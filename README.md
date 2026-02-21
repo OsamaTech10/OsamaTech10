@@ -127,21 +127,7 @@ const osama: Developer = {
 
 <br/>
 
-<div align="center">
 
-### 🏆 Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=OsamaTech10&theme=tokyonight&no-frame=true&margin-w=14&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
