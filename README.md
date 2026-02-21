@@ -64,7 +64,7 @@ const osama = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" style="border-radius:12px"/>
 
 </td>
 </tr>
