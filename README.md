@@ -21,21 +21,13 @@
 <!-- ░░░ SOCIAL ICONS ░░░ -->
 <div align="center">
 
-<a href="mailto:oa825814@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" title="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/201110958865">
-  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="55" title="WhatsApp"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/osama-ahmed-113102361/">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" title="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/OsamaTech10">
-  <img src="https://img.icons8.com/ios-filled/96/ffffff/github.png" width="55" title="GitHub"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa825814@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201110958865)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-113102361/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaTech10)
 
 </div>
 
