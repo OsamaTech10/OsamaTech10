@@ -208,8 +208,7 @@ const osama = {
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=OsamaTech10&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/OsamaTech10?style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed&label=Followers)](https://github.com/OsamaTech10?tab=followers)
+
 
 <br/><br/>
 
