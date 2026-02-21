@@ -73,7 +73,7 @@ const osama: Developer = {
 </td>
 <td width="48%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270" style="border-radius:20px"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="270" style="border-radius:20px"/>
 
 </td>
 </tr>
