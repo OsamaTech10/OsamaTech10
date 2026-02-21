@@ -73,7 +73,9 @@ const osama: Developer = {
 </td>
 <td width="48%" valign="middle" align="center">
 
-<img src="https://cdn.dribbble.com/userupload/23854044/file/original-5e84ed56c6b3568265f5fafb6a8e4ecc.gif" width="270" style="border-radius:20px"/>
+<img src="https://eparivartan.com/images/mobile-app-development.gif" width="200"/>
+&nbsp;
+<img src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif" width="200"/>
 
 </td>
 </tr>
@@ -82,7 +84,7 @@ const osama: Developer = {
 <br/>
 
 <!-- ░░░ ANIMATED WAVE DIVIDER ░░░ -->
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
