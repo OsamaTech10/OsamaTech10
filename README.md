@@ -1,61 +1,46 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Osama%20Ahmed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✨%20Web%20Developer%20in%20Progress%20✨&descAlignY=62&descSize=20&stroke=00d9ff&strokeWidth=2)
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Osama+Ahmed;🚀+Web+Developer+in+Progress;💡+Passionate+Problem+Solver;🎯+Always+Learning%2C+Never+Stopping;⚡+Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Osama+Ahmed;🚀+Web+Developer+in+Progress;💡+Passionate+Problem+Solver;🎯+Always+Learning%2C+Never+Stopping;⚡+Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL LINKS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
 <a href="mailto:oa825814@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" title="Gmail"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://wa.me/201110958865">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="55" title="WhatsApp"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/osama-ahmed-113102361/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/OsamaTech10">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.icons8.com/ios-filled/96/ffffff/github.png" width="55" title="GitHub"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-
-## 🧠 &nbsp; About Me
-
-</div>
+## 🧠 About Me
 
 <br/>
 
@@ -70,7 +55,7 @@ const osama = {
   location: "Egypt 🇪🇬",
   focus:    ["HTML5", "CSS3", "JavaScript"],
   editor:   "VS Code 💙",
-  learning:  "Every. Single. Day. 🔥",
+  learning: "Every. Single. Day. 🔥",
   goal:     "Build amazing things ✨",
   motto:    "Code → Break → Fix → Repeat"
 };
@@ -79,7 +64,7 @@ const osama = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -89,17 +74,13 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br/>
+
+## 🛠️ Tech Stack & Tools
 
 <br/>
 
 <div align="center">
-
-## 🛠️ &nbsp; Tech Stack & Tools
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" />
 
@@ -117,24 +98,21 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br/>
+
+## 📊 GitHub Performance
 
 <br/>
 
 <div align="center">
 
-## 📊 &nbsp; GitHub Performance
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsamaTech10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaTech10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=12" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OsamaTech10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed&border_radius=12"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaTech10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=12"/>
 
 <br/><br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaTech10&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&border_radius=12" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaTech10&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&border_radius=12"/>
 
 </div>
 
@@ -142,19 +120,15 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br/>
+
+## 🏆 GitHub Trophies
 
 <br/>
 
 <div align="center">
 
-## 🏆 &nbsp; GitHub Trophies
-
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=OsamaTech10&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=OsamaTech10&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6"/>
 
 </div>
 
@@ -162,19 +136,15 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br/>
+
+## 📈 Contribution Activity
 
 <br/>
 
 <div align="center">
 
-## 📈 &nbsp; Contribution Activity
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaTech10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaTech10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed"/>
 
 </div>
 
@@ -182,33 +152,21 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               RANDOM DEV QUOTE                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br/>
+
+## 💬 Dev Quote of the Day
 
 <br/>
 
 <div align="center">
 
-## 💬 &nbsp; Dev Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="78%"/>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  PROFILE VIEWS + FOOTER                   -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 <br/>
 
