@@ -64,7 +64,7 @@ const osama = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -86,11 +86,11 @@ const osama = {
 
 <br/><br/>
 
-| Skill | Level |
-|:---:|:---:|
-| 🌐 HTML5 | ![](https://img.shields.io/badge/■■■■■■■■□□-Intermediate-E34F26?style=flat-square&labelColor=0d1117) |
-| 🎨 CSS3 | ![](https://img.shields.io/badge/■■■■■■■□□□-Intermediate-1572B6?style=flat-square&labelColor=0d1117) |
-| ⚡ JavaScript | ![](https://img.shields.io/badge/■■■■■□□□□□-Beginner-F7DF1E?style=flat-square&labelColor=0d1117) |
+![HTML5](https://img.shields.io/badge/🌐%20HTML5-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2080%25-E34F26?style=for-the-badge&labelColor=0d1117&color=E34F26)
+
+![CSS3](https://img.shields.io/badge/🎨%20CSS3-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2070%25-1572B6?style=for-the-badge&labelColor=0d1117&color=1572B6)
+
+![JavaScript](https://img.shields.io/badge/⚡%20JavaScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%2050%25-F7DF1E?style=for-the-badge&labelColor=0d1117&color=F7DF1E)
 
 </div>
 
