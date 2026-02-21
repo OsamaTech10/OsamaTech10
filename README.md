@@ -202,62 +202,6 @@ const osama = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION GRAPH                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-## 🐍 &nbsp; Watch My Contributions Get Eaten!
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OsamaTech10/OsamaTech10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OsamaTech10/OsamaTech10/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OsamaTech10/OsamaTech10/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-
-<details>
-<summary>⚙️ &nbsp; <b>اضغط هنا لتفعيل Snake Animation</b></summary>
-<br/>
-
-> روح الـ repository بتاعك → **Actions** → **New workflow** → الصق الكود ده في ملف جديد اسمه `snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
